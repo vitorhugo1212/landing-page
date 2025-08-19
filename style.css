@@ -1,3 +1,15 @@
-body{
-    background-color: aquamarine;
+header{
+    background-color: blue;
+}
+#produtos{
+    background-color:crimson;
+    height: 250px;
+}
+#carrinho{
+    background-color: blueviolet;
+    height: 250px;
+}
+#historia{
+    background-color: darkorange
+    height: 250px;
 }
